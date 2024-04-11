@@ -2,7 +2,7 @@
 
 Olá, sou Matheus! 👋
 
-Sou desenvolvedor Full Stack apaixonado por criar soluções inovadoras com tecnologias modernas. Aqui estão algumas das minhas principais habilidades:
+Desenvolvedor Full Stack apaixonado por criar soluções inovadoras com tecnologias modernas. Aqui estão algumas das minhas principais habilidades:
 
 - 💻 **Tecnologias:** Node.js | ReactJS | React Native
 - 🏗️ **Arquitetura e Práticas:** Clean Architecture | TDD | DDD | SOLID
