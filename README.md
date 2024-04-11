@@ -5,7 +5,7 @@
 💻 Node.js | ReactJS | React Native
 🏗️ Clean Architecture | TDD | DDD | SOLID
 🛠️ Proficiente em DevOps, utilizando Docker para a criação de ambientes de desenvolvimento e produção eficientes, e CI/CD para automatizar pipelines de entrega contínua e serviços da AWS, incluindo EC2, ECS, SQS, S3, SNS, SES, Lambda, CloudFront, DynamoDB, entre outros, para hospedar, gerenciar e dimensionar aplicações em nuvem de forma eficaz.
-🗃️ Possuo em bancos de dados relacionais como MySQL, PostgreSQL, SQL Server e bancos de dados não relacionais como MongoDB. Além disso, experiente em uso de Redis como banco em memória para armazenamento de cache.
+🗃️ Possuo experiência em bancos de dados relacionais como MySQL, PostgreSQL, SQL Server e bancos de dados não relacionais como MongoDB. Além disso, experiente em uso de Redis como banco em memória para armazenamento de cache.
 
 🔍 Sempre em busca da excelência técnica e da entrega de código limpo e escalável, sou um entusiasta do desenvolvimento orientado a testes (TDD) e da arquitetura de software bem definida (DDD).
 
