@@ -4,7 +4,7 @@ Olá, sou Matheus! 👋
 
 Desenvolvedor Full Stack apaixonado por criar soluções inovadoras com tecnologias modernas. Aqui estão algumas das minhas principais habilidades:
 
-- 💻 **Tecnologias:** Node.js | ReactJS | React Native
+- 💻 **Tecnologias:** Spring Boot | Node.js | ReactJS | React Native
 - 🏗️ **Arquitetura e Práticas:** Clean Architecture | TDD | DDD | SOLID
 - 🛠️ **DevOps:** Proficiente em Docker para ambientes eficientes, CI/CD para automação de pipelines e AWS para hospedagem e gerenciamento de aplicações em nuvem.
 - 🗃️ **Bancos de Dados:** Experiência em MySQL, PostgreSQL, SQL Server, MongoDB e Redis para armazenamento em cache.
